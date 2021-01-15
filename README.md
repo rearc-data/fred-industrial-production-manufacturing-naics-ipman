@@ -5,7 +5,7 @@
 
 ## Industrial Production: Manufacturing (NAICS) (IPMAN) | FRED
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://console.aws.amazon.com/dataexchange/home#/products/prodview-w3agnmd5cadr4](https://console.aws.amazon.com/dataexchange/home#/products/prodview-w3agnmd5cadr4).
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-w3agnmd5cadr4](https://aws.amazon.com/marketplace/pp/prodview-w3agnmd5cadr4).
 
 ### Main Overview
 The dataset file included with this product is provided in CSV format. README files are also included to offer context on data fields used throughout the dataset files. The specific files included with each revisions may vary.
