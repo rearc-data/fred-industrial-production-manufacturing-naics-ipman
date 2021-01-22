@@ -13,7 +13,13 @@ The dataset file included with this product is provided in CSV format. README fi
 This dataset contains a historical time-series data of Board of Governors of the Federal Reserve System (US), Industrial Production: Manufacturing (NAICS) [IPMAN] starting from `1972-01-01`. The value of the data is based on Index 2012=100 and it is seasonally adjusted.
 
 ### Data Source
-This dataset is provided by the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/) Economic Data (FRED). 
+This dataset is provided by the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/) Economic Data (FRED).
+
+The included dataset contains the following columns:
+
+`date, IPMAN`
+
+The `IPMAN` column represents the industrial production index at the time of the corresponding `date`. 
 
 ### More Information
 - Source: 
